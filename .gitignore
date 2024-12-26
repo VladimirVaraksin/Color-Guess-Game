@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Color Guess Game/*
+!/Color Guess Game/task/
+/Color Guess Game/task/*
+!/Color Guess Game/task/src
